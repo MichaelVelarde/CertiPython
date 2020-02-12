@@ -1,0 +1,3 @@
+ls --author = imprime los autores de cada archivo
+ls -g = Como ls -l pero sin el propietario
+ls -s = Ordena por tamano, con el mas grande primero.
